@@ -12,8 +12,8 @@ A complete self-study educational curriculum designed to take you from programmi
 
 ```py
 # Clone the repository
-git clone https://github.com/jahidhasanlinix/Complete-AI-Mastery.git
-cd Complete-AI-Mastery
+git clone [https://github.com/jahidhasanlinix/Complete-AI-Mastery.git](https://github.com/jahidhasanlinix/LLM4All_LLM-for-all.git)
+cd LLM4All_LLM-for-all
 ```
 ---
 
